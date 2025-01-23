@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @artum669
-- 👀 I’m interested in Front end Development
-- 🌱 I’m currently learning HTML & CSS
+- 👀 I’m interested in full-stack Development
+- 🌱 I’m currently learning [React] & [Typescript]
 - 📫 You can reach me by Discord: artum669#6189
 
 <!---
